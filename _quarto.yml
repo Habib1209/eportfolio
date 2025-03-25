@@ -1,6 +1,8 @@
 project:
     type: website
     output-dir: docs
+    resources:
+        - documentation/
 
 website:
     title: 'Habib Goloba'

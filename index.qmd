@@ -1,6 +1,22 @@
 ---
 title: "Habib Goloba's Portfolio"
-about: jolla
+about:
+    template: jolla
+    links: 
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/habib-goloba-99a725255/
+        icon: linkedin
+        target: _blank
+      - text: Github
+        href: https://github.com/Habib1209
+        icon: github
+        target: _blank
+      - text: Email
+        icon: envelope
+        href: mailto:habib.goloba2@mail.dcu.ie
+      - text: CV
+        icon: file
+        href: documentation/cv.pdf
 ---
 
 This is a Quarto website.
