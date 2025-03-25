@@ -1,5 +1,6 @@
 ---
-title: "Eportfolio"
+title: "Habib Goloba's Portfolio"
+about: jolla
 ---
 
 This is a Quarto website.

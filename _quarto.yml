@@ -3,17 +3,21 @@ project:
     output-dir: docs
 
 website:
-    title: 'Eportfolio'
+    title: 'Habib Goloba'
     navbar:
-        left:
+        right:
             - href: index.qmd
               text: Home
             - about.qmd
+    page-footer:
+        background: light #or dark
+        left: © Copyright 2025, Habib Goloba
+        right: This website is built with [Quarto](https://quarto.org/){target=_blank}
 
 format:
     html:
         theme:
-            - cosmo
+            - lux
             - brand
         css: styles.css
         toc: true
