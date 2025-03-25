@@ -19,6 +19,6 @@ about:
         href: documentation/cv.pdf
 ---
 
-This is a Quarto website.
+My name is Habib Goloba, a driven student at Dublin City University specialising in Business Analytics. I am working towards a Bachelor of Business Studies, with a deep focus on utilising a variety of analytical platforms, tools, and methodologies.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Projects
