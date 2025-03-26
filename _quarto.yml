@@ -1,19 +1,30 @@
 project:
     type: website
     output-dir: docs
+    resources:
+        - documentation/
+        - images/
 
 website:
-    title: 'Eportfolio'
+    title: 'Habib Goloba'
+    # Image taken from: https://fontawesome.com/icons/square-pied-piper?f=classic&s=brands&pc=%23FFD43B&sc=%23FFD43B
+    favicon: images/square-pied-piper-brands.svg
     navbar:
-        left:
+        title: false
+        logo: images/square-pied-piper-brands.svg
+        right:
             - href: index.qmd
               text: Home
             - about.qmd
+    page-footer:
+        background: dark
+        left: © Copyright 2025, Habib Goloba
+        right: This website is built with [Quarto](https://quarto.org/){target=_blank}
 
 format:
     html:
         theme:
-            - cosmo
+            - lux
             - brand
         css: styles.css
         toc: true
