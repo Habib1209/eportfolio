@@ -25,7 +25,7 @@
     "href": "index.html#projects",
     "title": "Habib Goloba’s Portfolio",
     "section": "Projects",
-    "text": "Projects"
+    "text": "Projects\n\nPower BI\nProvide a high-level summary of key performance metrics and trends across the dataset of superstore\n\n\nOverbooking Strategy Analysis for Green Airways\nGreen Airways operates three daily flights from Dublin to London. Each flight has a capacity of 100 passengers. To increase profitability, the airline wishes to explore overbooking strategies to compensate for no-show passengers.\n\n\nKaggle sql dataset\nI downloaded sample Bike Store data in CSV format from Kaggle and used these individual files to build an interconnected SQL database which help to show my individual skills and knowledge"
   },
   {
     "objectID": "index.html#bio",

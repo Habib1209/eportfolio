@@ -25,3 +25,15 @@ about:
 My name is Habib Goloba, a driven student at Dublin City University specialising in Business Analytics. I am working towards a Bachelor of Business Studies, with a deep focus on utilising a variety of analytical platforms, tools, and methodologies.
 
 ## Projects
+
+#### Power BI
+
+Provide a high-level summary of key performance metrics and trends across the dataset of superstore
+
+#### Overbooking Strategy Analysis for Green Airways
+
+Green Airways operates three daily flights from Dublin to London. Each flight has a capacity of 100 passengers. To increase profitability, the airline wishes to explore overbooking strategies to compensate for no-show passengers.
+
+#### Kaggle sql dataset
+
+I downloaded sample Bike Store data in CSV format from Kaggle and used these individual files to build an interconnected SQL database which help to show my individual skills and knowledge
