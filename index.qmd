@@ -1,7 +1,8 @@
 ---
 title: "Habib Goloba's Portfolio"
+image: images/headshot.jpeg
 about:
-    template: jolla
+    template: trestles
     links: 
       - text: LinkedIn
         href: https://www.linkedin.com/in/habib-goloba-99a725255/
@@ -19,6 +20,8 @@ about:
         href: documentation/cv.pdf
 ---
 
+## Bio
+
 My name is Habib Goloba, a driven student at Dublin City University specialising in Business Analytics. I am working towards a Bachelor of Business Studies, with a deep focus on utilising a variety of analytical platforms, tools, and methodologies.
 
-### Projects
+## Projects
