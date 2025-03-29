@@ -7,7 +7,12 @@ img {
     transition: transform 0.2s ease-out;
 }
 
+.project-btn {
+    transition: transform 0.2s ease-out;
+}
+
 .project-btn:hover {
+    transform: scale(1.05);
     color: black !important;
     background-color: rgb(255, 212, 59) !important;
 }
