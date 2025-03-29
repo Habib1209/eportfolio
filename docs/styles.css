@@ -26,3 +26,7 @@ img {
 .nav-item a:hover {
     color: rgb(255, 212, 59) !important;
 }
+
+#projects a:hover {
+    color: rgb(255, 212, 59) !important;
+}
