@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 about:
-    template: jolla
+    template: solana
 ---
 
 ### Biography
@@ -13,3 +13,8 @@ My name is Habib Goloba, a driven student at Dublin City University specialising
 I am committed to using my analytical expertise to significantly influence business strategies and operational efficiencies within cutting-edge corporate settings. My goal is to continuously develop my skill set and knowledge base through ongoing education and real-world applications. I aim to contribute to and lead projects that leverage big data to drive innovation, optimise processes, and enhance decision-making.
 
 My career aspiration is to rise to a leadership role within the technology and analytics sector, where I can set industry standards and mentor the next generation of business analysts. This ambition is a professional aim and a personal commitment to excel in a field that merges my interests in technology, business, and problem-solving. By aligning with organisations that value innovation and data-driven decision-making, I strive to make a significant impact on the business landscape and achieve excellence in my future endeavours.
+
+### Project Reflection
+
+Developing this e-portfolio was a difficult but insightful task. Through this project it has become all to aware the benefits of using a version
+control software like git. It made it very useful for me to track changes, seperate changes logically and undo mistakes. I also enjoyed learning how to use quarto. It is amazing how you can use markdown to create visulations in python. Git and quarto will definitely be of benefit to me in my goal to contribute to and lead projects that leverage big data to drive innovation, optimise processes, and enhance decision-making.
