@@ -6,3 +6,8 @@ img:hover {
 img {
     transition: transform 0.2s ease-out;
 }
+
+.project-btn:hover {
+    color: black !important;
+    background-color: rgb(255, 212, 59) !important;
+}
