@@ -16,6 +16,15 @@ website:
             - href: index.qmd
               text: Home
             - about.qmd
+            - text: Projects
+              menu:
+                  - href: project1.qmd
+                    text: Power BI
+                  - href: project2.qmd
+                    text: Overbooking Strategy Analysis
+                  - href: project3.qmd
+                    text: Kaggle SQL Dataset
+
     page-footer:
         background: dark
         left: © Copyright 2025, Habib Goloba
