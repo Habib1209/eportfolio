@@ -16,3 +16,7 @@ img {
     color: black !important;
     background-color: rgb(255, 212, 59) !important;
 }
+
+.nav-item a:hover {
+    color: rgb(255, 212, 59) !important;
+}
