@@ -1,1 +1,8 @@
 /* css styles */
+img:hover {
+    transform: scale(1.05);
+}
+
+img {
+    transition: transform 0.2s ease-out;
+}

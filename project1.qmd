@@ -1,0 +1,28 @@
+---
+title: Projects - Power Bi
+execute:
+    jupyter: python3
+---
+
+![Power BI Dashboard](images/project1.png)
+
+### Description
+This project focuses on creating a dynamic and interactive Power BI dashboard to analyse the sales and profitability performance of a superstore. By leveraging business intelligence and data analytics, this dashboard provides actionable insights that help improve decision-making across different aspects of the business, including sales performance, profit margins, customer behaviour, and regional trends.
+
+The dashboard allows users to explore key metrics such as total revenue, total profit, number of orders, and discount trends, while also breaking down sales and profitability at a category, sub-category, and regional level. With interactive visualisations and filters, this project helps businesses identify growth opportunities, optimise pricing strategies, and enhance operational efficiency.
+
+### Data used for dashboard
+```{python}
+#| code-fold: true
+#| code-summary: "Reveal code"
+import pandas as pd
+
+# load csv file
+df = pd.read_csv("data/Superstore.csv", encoding="latin1", sep=";")
+
+# Show first 5 rows
+df.head(5)
+```
+
+</br>
+<a href="https://drive.google.com/file/d/1yupSOoR2L8lQnV70ORrtOEw_ikCTfnZm/view?usp=sharing" class="btn btn-primary" target="_blank">View project artefacts</a>

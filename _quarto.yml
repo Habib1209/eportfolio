@@ -4,6 +4,7 @@ project:
     resources:
         - documentation/
         - images/
+        - data/
 
 website:
     title: 'Habib Goloba'
