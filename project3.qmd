@@ -1,7 +1,5 @@
 ---
 title: Kaggle SQL Dataset
-code-fold: true
-code-summary: "Reval code"
 ---
 
 ![Entity Relationship Diagram](images/ERD.png)
@@ -13,9 +11,13 @@ To achieve this, I imported the datasets into a SQL environment, ensuring data i
 
 I then wrote SQL queries to extract meaningful insights, including analysing sales performance across different time periods, tracking inventory levels, and identifying customer purchasing trends. Additionally, I optimised queries for better performance, ensuring faster data retrieval and reporting.
 
-### Data used for dashboard
-```sql
+### Project SQL Code
 
+
+<details>
+    <summary>Reveal Code</summary>
+
+```sql
 --Creating tables for our data
 Create table customers(
 customer_id SMALLINT,
@@ -95,6 +97,7 @@ FROM orders
 JOIN stores on orders.store_id=stores.store_id
 WHERE state = 'CA';
 ```
+</details>
 
 </br>
 <a href="https://drive.google.com/drive/folders/1bdcsU9RA8D27tiOR2TyD9uNiC4xK0-JJ?usp=sharing" class="btn btn-primary project-btn" target="_blank">View project artefacts</a>
