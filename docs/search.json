@@ -44,7 +44,7 @@
   {
     "objectID": "project1.html",
     "href": "project1.html",
-    "title": "Projects - Power Bi",
+    "title": "Power Bi",
     "section": "",
     "text": "Power BI Dashboard\n\n\n\nDescription\nThis project focuses on creating a dynamic and interactive Power BI dashboard to analyse the sales and profitability performance of a superstore. By leveraging business intelligence and data analytics, this dashboard provides actionable insights that help improve decision-making across different aspects of the business, including sales performance, profit margins, customer behaviour, and regional trends.\nThe dashboard allows users to explore key metrics such as total revenue, total profit, number of orders, and discount trends, while also breaking down sales and profitability at a category, sub-category, and regional level. With interactive visualisations and filters, this project helps businesses identify growth opportunities, optimise pricing strategies, and enhance operational efficiency.\n\n\nData used for dashboard\n\n\nReveal code\nimport pandas as pd\n\n# load csv file\ndf = pd.read_csv(\"data/Superstore.csv\", encoding=\"latin1\", sep=\";\")\n\n# Show first 5 rows\ndf.head(5)\n\n\n\n\n\n\n\n\n\nRow ID\nOrder ID\nOrder Date\nShip Date\nShip Mode\nCustomer ID\nCustomer Name\nSegment\nCountry\nCity\n...\nPostal Code\nRegion\nProduct ID\nCategory\nSub-Category\nProduct Name\nSales\nQuantity\nDiscount\nProfit\n\n\n\n\n0\n1\nCA-2013-152156\n09/11/2013\n12/11/2013\nSecond Class\nCG-12520\nClaire Gute\nConsumer\nUnited States\nHenderson\n...\n42420\nSouth\nFUR-BO-10001798\nFurniture\nBookcases\nBush Somerset Collection Bookcase\n261.96\n2.0\n0.00\n$419.136,00\n\n\n1\n2\nCA-2013-152156\n09/11/2013\n12/11/2013\nSecond Class\nCG-12520\nClaire Gute\nConsumer\nUnited States\nHenderson\n...\n42420\nSouth\nFUR-CH-10000454\nFurniture\nChairs\nHon Deluxe Fabric Upholstered Stacking Chairs,...\n731.94\n3.0\n0.00\n$219.582,00\n\n\n2\n3\nCA-2013-138688\n13/06/2013\n17/06/2013\nSecond Class\nDV-13045\nDarrin Van Huff\nCorporate\nUnited States\nLos Angeles\n...\n90036\nWest\nOFF-LA-10000240\nOffice Supplies\nLabels\nSelf-Adhesive Address Labels for Typewriters b...\n14.62\n2.0\n0.00\n$68.714,00\n\n\n3\n4\nUS-2012-108966\n11/10/2012\n18/10/2012\nStandard Class\nSO-20335\nSean O'Donnell\nConsumer\nUnited States\nFort Lauderdale\n...\n33311\nSouth\nFUR-TA-10000577\nFurniture\nTables\nBretford CR4500 Series Slim Rectangular Table\n$9.575.775,00\n5.0\n0.45\n$-383.031,00\n\n\n4\n5\nUS-2012-108966\n11/10/2012\n18/10/2012\nStandard Class\nSO-20335\nSean O'Donnell\nConsumer\nUnited States\nFort Lauderdale\n...\n33311\nSouth\nOFF-ST-10000760\nOffice Supplies\nStorage\nEldon Fold 'N Roll Cart System\n$22.368,00\n2.0\n0.20\n$25.164,00\n\n\n\n\n5 rows × 21 columns\n\n\n\n View project artefacts"
   },
@@ -54,5 +54,12 @@
     "title": "Projects - Power Bi",
     "section": "",
     "text": "Power BI Dashboard"
+  },
+  {
+    "objectID": "project2.html",
+    "href": "project2.html",
+    "title": "Overbooking Strategy Analysis for Green Airways",
+    "section": "",
+    "text": "Description\nThis project focuses on optimising the overbooking strategy for Green Airways, a regional airline operating three daily flights from Dublin to London, each with a capacity of 100 passengers. The airline aims to maximise profitability by compensating for passenger no-shows through a data-driven overbooking approach. Using Excel, I analysed historical booking and check-in data to identify trends in no-shows and demand fluctuations, employing pivot tables and functions to summarise key patterns. I then built financial models to assess the impact of overbooking by 1 to 5 passengers per flight, utilising Excel’s scenario modelling and What-If Analysis tools to evaluate the effects on profitability, considering revenue gains and compensation costs. Finally, I applied Monte Carlo simulations to test various overbooking strategies over 500 days, running multiple iterations to assess risks and determine the most profitable approach.\n View project artefacts"
   }
 ]

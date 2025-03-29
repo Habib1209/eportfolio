@@ -1,5 +1,5 @@
 ---
-title: Projects - Power Bi
+title: Power Bi
 execute:
     jupyter: python3
 ---
