@@ -1,0 +1,19 @@
+---
+title: Contact Me
+about:
+    template: jolla
+    links: 
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/habib-goloba-99a725255/
+        icon: linkedin
+        target: _blank
+      - text: Github
+        href: https://github.com/Habib1209
+        icon: github
+        target: _blank
+      - text: Email
+        icon: envelope
+        href: mailto:habib.goloba2@mail.dcu.ie
+---
+
+Please feel free to contact me through any of the options below.

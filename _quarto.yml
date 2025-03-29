@@ -25,6 +25,8 @@ website:
                     text: Overbooking Strategy Analysis
                   - href: project3.qmd
                     text: Kaggle SQL Dataset
+            - href: contact.qmd
+              text: Contact Me
 
     page-footer:
         background: dark

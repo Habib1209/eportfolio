@@ -30,3 +30,8 @@ img {
 #projects a:hover {
     color: rgb(255, 212, 59) !important;
 }
+
+.quarto-about-jolla {
+    /* Center contact page section */
+    margin: auto 0 !important;
+}
