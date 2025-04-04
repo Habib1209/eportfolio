@@ -11,4 +11,8 @@ This project focuses on optimising the overbooking strategy for Green Airways, a
 I then built financial models to assess the impact of overbooking by 1 to 5 passengers per flight, utilising Excel’s scenario modelling and What-If Analysis tools to evaluate the effects on profitability, considering revenue gains and compensation costs. Finally, I applied Monte Carlo simulations to test various overbooking strategies over 500 days, running multiple iterations to assess risks and determine the most profitable approach.
 
 </br>
+
+### Project Excel Sheet
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTxjFavh69j_93dDZw1aBA8oFKZNrVL1DZsYHuiCGR43hqdSphcRubZsE4BRjBILDLTD9UzlMAcenBy/pubhtml?widget=true&amp;headers=false"></iframe>
+
 <a href="https://drive.google.com/drive/folders/1TpL4EXWVkPvB6CbmCfu5PKnxdIlYJswP" class="btn btn-primary project-btn" target="_blank">View project artefacts</a>
