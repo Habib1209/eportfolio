@@ -16,3 +16,17 @@ iframe {
     width: 120px;
     height: 120px;
 }
+
+.project-btn {
+    transition: transform 0.2s ease-out;
+}
+
+.project-btn:hover {
+    transform: scale(1.05);
+    color: black !important;
+    background-color: rgb(255, 212, 59) !important;
+}
+
+.nav-item a:hover {
+    color: rgb(255, 212, 59) !important;
+}
