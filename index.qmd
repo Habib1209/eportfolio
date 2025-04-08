@@ -17,7 +17,8 @@ about:
         href: mailto:habib.goloba2@mail.dcu.ie
       - text: CV
         icon: file
-        href: documentation/cv.pdf
+        href: https://drive.google.com/file/d/11bpakXRc01M6hcvKBLvL4CNxD7yyQPUL/view?usp=drive_link
+        target: _blank
 ---
 
 ## Bio
